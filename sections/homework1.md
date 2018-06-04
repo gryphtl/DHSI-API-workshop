@@ -7,7 +7,7 @@ Prepare a brief introduction to the API you have found.
 - Who maintains it?
 - What sort of requests are possible?
 - How much information can you find on the website?
-- Do you need to "authenticate" to the API—that is, perform some actuion before you have access to it?
+- Do you need to "authenticate" to the API—that is, perform some action before you have access to it?
 - What do you still need to find out about this API?
 
 
